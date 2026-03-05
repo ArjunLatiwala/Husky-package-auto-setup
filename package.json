@@ -1,0 +1,18 @@
+{
+  "name": "husky-auto-setup",
+  "version": "1.0.4",
+  "description": "Auto setup Husky with predefined hooks",
+  "bin": {
+    "husky-auto-setup": "./setup.js"
+  },
+  "keywords": [
+    "husky",
+    "git-hooks",
+    "automation"
+  ],
+  "author": "Arjun",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^9.1.7"
+  }
+}
